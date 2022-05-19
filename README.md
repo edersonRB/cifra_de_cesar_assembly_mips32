@@ -1,7 +1,8 @@
 # cifra_de_cesar_assembly_mips32
 BEM-VINDO - PROGRAMA CIFRA DE CÉSAR Assembly MIPS32<br>
 Autor: Éderson R. B.<br>
-Ano: 2022\nLicense: GNU GPL v3.0<br>
+Ano: 2022<br>
+License: GNU GPL v3.0<br>
 Código Fonte:github.com/edersonRB/cifra_de_cesar_assembly_mips32
 ---
 O programa não trata todos os erros para o caso das entradas estarem
